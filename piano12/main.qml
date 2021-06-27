@@ -1,4 +1,4 @@
-import QtQuick 2.12 // основной модуль (Rectangle, Image и т.д.)
+import QtQuick 2.12 // Основной модуль (Rectangle, Image и т.д.)
 import QtQuick.Window 2.12 // Отображение окна
 import QtQuick.Controls 2.12 // Для кнопок
 import QtMultimedia 5.12 // Поддержка аудиофайлов в проекте
