@@ -1,8 +1,8 @@
-import QtQuick 2.12 // основной модуль (Rectangle, Image и т.д.)
-import QtQuick.Window 2.12 // отображение окна
-import QtQuick.Controls 2.12 // для кнопок
-import QtMultimedia 5.12 // поддержка аудиофайлов в проекте
-import QtQuick.Dialogs 1.3 // поддержка диалоговых окон(в нашем случае выбор файла)
+import QtQuick 2.12 // Основной модуль (Rectangle, Image и т.д.)
+import QtQuick.Window 2.12 // Отображение окна
+import QtQuick.Controls 2.12 // Для кнопок
+import QtMultimedia 5.12 // Поддержка аудиофайлов в проекте
+import QtQuick.Dialogs 1.3 // Поддержка диалоговых окон(в нашем случае выбор файла)
 
 Window {
     visible: true // видимость окна
